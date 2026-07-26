@@ -987,8 +987,8 @@ function App() {
             </p>
 
             <p>
-              +91 98765 43210
-            </p>
+              +91 7305554674
+                        </p>
 
             <p>
               hello@purplegiftshop.com
