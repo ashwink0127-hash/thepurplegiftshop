@@ -221,10 +221,10 @@ function App() {
         <div className="container nav-container">
 
 
-          <a
+          <a>
             href="#home"
             className="logo"
-          >
+          
 
             <img
               src="https://ashwink0127-hash.github.io/thepurplegiftshop/logo.jpg"
