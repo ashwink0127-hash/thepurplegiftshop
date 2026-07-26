@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thepurplegiftshop/static/css/main.98f04b97.css",
-    "main.js": "/thepurplegiftshop/static/js/main.8075711a.js",
+    "main.js": "/thepurplegiftshop/static/js/main.761cfb72.js",
     "static/js/453.62220fdb.chunk.js": "/thepurplegiftshop/static/js/453.62220fdb.chunk.js",
     "index.html": "/thepurplegiftshop/index.html",
     "main.98f04b97.css.map": "/thepurplegiftshop/static/css/main.98f04b97.css.map",
-    "main.8075711a.js.map": "/thepurplegiftshop/static/js/main.8075711a.js.map",
+    "main.761cfb72.js.map": "/thepurplegiftshop/static/js/main.761cfb72.js.map",
     "453.62220fdb.chunk.js.map": "/thepurplegiftshop/static/js/453.62220fdb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98f04b97.css",
-    "static/js/main.8075711a.js"
+    "static/js/main.761cfb72.js"
   ]
 }
