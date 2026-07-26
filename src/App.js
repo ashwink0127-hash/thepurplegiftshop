@@ -209,6 +209,7 @@ function App() {
   );
 
 
+  const newLocal = <Menu />;
   return (
 
     <div className="app">
@@ -221,13 +222,12 @@ function App() {
         <div className="container nav-container">
 
 
-          <a>
-            href="#home"
-            className="logo"
+          <a href="#home"
+            className="logo">
           
 
-            <img
-              src="https://ashwink0127-hash.github.io/thepurplegiftshop/logo.jpg"
+<img          
+            src="https://ashwink0127-hash.github.io/thepurplegiftshop/logo.jpg"
               alt="The Purple Gift Shop"
             />
 
@@ -345,7 +345,7 @@ function App() {
 
               ) : (
 
-                <Menu />
+                newLocal
 
               )}
 
@@ -357,10 +357,10 @@ function App() {
 
         </div>
 
-      </header>
+</header>    
 
 
-      {/* HERO */}
+       {/* HERO */}
 
       <section
         className="hero"
