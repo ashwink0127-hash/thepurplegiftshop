@@ -37,7 +37,7 @@ function App() {
 
   // LOAD ALL IMAGES FROM public/images/images.json
   useEffect(() => {
-  fetch("/images/images.json")
+  fetch("https://ashwink0127-hash.github.io/thepurplegiftshop/images/images.json")
     .then((response) => response.json())
     .then((imageData) => {
       const imageProducts = imageData
@@ -50,7 +50,7 @@ function App() {
           category: "Gift",
           price: item.price,
           oldPrice: Math.round(item.price * 1.35),
-          image: `/images/${item.image}`,
+          image: `https://ashwink0127-hash.github.io/thepurplegiftshop/images/${item.image}`,
           rating: 5,
         }));
 
@@ -227,7 +227,7 @@ function App() {
           >
 
             <img
-              src="/logo.jpg"
+              src="https://ashwink0127-hash.github.io/thepurplegiftshop/logo.jpg"
               alt="The Purple Gift Shop"
             />
 
