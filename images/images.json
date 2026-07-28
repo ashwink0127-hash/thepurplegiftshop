@@ -58,5 +58,9 @@
   {
     "image": "s1.jpg",
     "price": 499
+  },
+  {
+    "image": "h1.jpg",
+    "price": 499
   }
 ]
